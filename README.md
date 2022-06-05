@@ -7,4 +7,4 @@ run nposulinux.py with
 [python3 nposulinux.py]
 and click on the osu process
 
-when you tab back into obs you will notice that I am in fact a jackass, and can't figure out how to get it to trim properly, so you're going to need to do that yourself with obs's crop function. sorry about that, I did it on purpose.
+when you tab back into obs you will notice that I am in fact a jackass, and can't figure out how to get it to trim properly, so you're going to need to do that yourself with obs's crop function. lol, lmao.

@@ -12,6 +12,6 @@ and click on the osu process
 
 when you tab back into obs you will notice that I am in fact a jackass, and can't figure out how to get it to trim properly, so you're going to need to do that yourself with obs's crop function. lol, lmao.
 
-#osu!dvr 
+# osu!dvr 
 automatically spectates and records a given player in osu, so that you can leave osu open overnight, and still watch someone who happens to play in another timezone. Instructions on how to use are given on runtime.
 linux only, I think, you can still try it if you want to

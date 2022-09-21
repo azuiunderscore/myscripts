@@ -15,3 +15,6 @@ when you tab back into obs you will notice that I am in fact a jackass, and can'
 # osu!dvr 
 automatically spectates and records a given player in osu, so that you can leave osu open overnight, and still watch someone who happens to play in another timezone. Instructions on how to use are given on runtime.
 linux only, I think, you can still try it if you want to
+
+# dwm_time_and_battery
+very apt name, I made this while I was bored in chem class lol. this is a really simple script you can add to your autostart which will set the text that usually says dwm-5.0 or whatever to the current date time and battery percentage once a second very cool I think enjoy

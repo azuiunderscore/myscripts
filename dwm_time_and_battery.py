@@ -16,7 +16,7 @@ while True:
     current_time = datetime.utcnow()
     current_time = str(current_time)
     current_time_short = current_time[0:16]
-    #full disclosure I stole this next part line for line from somethine online
+    #full disclosure I stole lines 20 to 25 pretty much line for line from somethine online
     battery = psutil.sensors_battery()
     plugged = battery.power_plugged
     stringpercent = str(battery.percent)
